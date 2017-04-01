@@ -4,7 +4,7 @@
 
 The abstract nonsense database.
 
-1. **dynamo-3**. Experiemntal code that should explain the basic structure & components of the db/system
+1. **dynamo-3**. Experimental code that should explain the basic structure & components of the db/system
 2. **dynamo-4**. As above, but with code refactoring into the mand library.
 3. **dynamo-5-greeks**. Numerical derivatives example. Mostly a POC for demonstrating Contexts.
 4. **dynamo-6-portfolios**. Aggregating workbooks into trees.

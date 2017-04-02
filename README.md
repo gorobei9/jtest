@@ -1,4 +1,4 @@
-# jtest - a resposity of random notebooks
+# jtest - a repository of random notebooks
 
 ## MAND
 

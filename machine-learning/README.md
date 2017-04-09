@@ -9,7 +9,7 @@ Just the tensorflow tutorial in a notebook.
 Test that basic wrapper classes work.
 
 ## explore-cls-mnist-expert.ipynb
-Wrapped version of the MNIST export tutorial.
+Wrapped version of the MNIST expert tutorial.
 
 ## explore-cls-mnist-small.ipynb
 A much smaller MNIST network: 1% the size of the tutorial, and with better accuracy.

@@ -16,3 +16,6 @@ A much smaller MNIST network: 1% the size of the tutorial, and with better accur
 
 ## cifar10-dataset.ipynb 
 Just check we can load and display the Cifar10 dataset.
+
+## explore-mnist-ICA
+Sanity checks for ICA on MNIST.

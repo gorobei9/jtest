@@ -1,4 +1,7 @@
 
+## MNIST for Crazy People.ipynb
+A 1-hidden layer MNIST scoring around 99.5%.
+
 ## tensorflow-mnist-beginner.ipynb
 Just the tensorflow tutorial in a notebook.
 

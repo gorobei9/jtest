@@ -12,3 +12,5 @@ Just the tensorflow tutorial in a notebook.
 Just check we can load and display the Cifar10 dataset.
 
 
+## Test - 1 channel enc -dev
+experimenting with non-linearity
